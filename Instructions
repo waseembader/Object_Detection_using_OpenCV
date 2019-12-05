@@ -1,0 +1,7 @@
+ * Install from Requirements file.
+
+ * Training folder contains cropped images to be trained for detection.
+
+ * Inputs are training cropped image and unmarked image
+
+ * After training, give any unmarked image and the program will output  an image inside output folder, showing the detected object as marked.
